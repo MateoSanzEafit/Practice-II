@@ -1,2 +1,3 @@
 # Practice-II
-practica de prolog
+practica de prolog Mateo Sanz Medina 
+
