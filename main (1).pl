@@ -4,9 +4,6 @@ main:-
     halt.
 
 process :-
-    case1,
-    case2,
-    case3.
 
 % Family relations
 
